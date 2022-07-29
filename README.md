@@ -1,6 +1,6 @@
 # TestCredSystem
 
-Projeto criato para fins de teste 
+Projeto criaDo para fins de teste 
 
 - Spring Boot 
 - maven
